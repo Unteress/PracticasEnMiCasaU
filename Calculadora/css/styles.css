@@ -1,0 +1,6 @@
+/* styles.css */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  /* Esconde las flechas de incremento */
+  display: none;
+}
